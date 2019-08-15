@@ -1,6 +1,7 @@
 ---
 exclude: ['README.markdown']
 permalink: ':title'
-pygments: true
+highlighter: rouge
+#pygments: true
 safe: false
 title: 'ApiDoc'
